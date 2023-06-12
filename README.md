@@ -1,4 +1,4 @@
-# H8P0-_Milestone_GeraldineDewarani
+# New York AirBnB Exploratory
 
 
 Here's a link to Visualisation Dashboard of Hacktive8 Data Science Phase 0 Dashboard https://public.tableau.com/views/newyork_airbnb_geraldinedewarani/Dashboard1?:language=en-US&publish=yes)%5D&:display_count=n&:origin=viz_share_link
